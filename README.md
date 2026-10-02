@@ -7,7 +7,7 @@
 
 - 正在构建 [SoleAPI](https://soleapi.com)，面向生产环境的 LLM API 网关
 - 关注方向：LLM 流量调度、计费与对账、流式转发的稳定性
-- 联系方式：[YOUR EMAIL]
+- 联系方式：admin@oryntis.ai
 
 ## 技术栈
 
